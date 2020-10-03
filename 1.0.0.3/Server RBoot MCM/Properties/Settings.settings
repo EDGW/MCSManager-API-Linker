@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Server_RBoot_MCM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UPDATEBAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@echo off
+cd [&amp;STARTUPPATH&amp;]
+del "[&amp;EXECUTNAME2&amp;]"
+REN "[&amp;UPDATENAME&amp;]" "[&amp;EXECUTNAME2&amp;]"
+del update.bat</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
