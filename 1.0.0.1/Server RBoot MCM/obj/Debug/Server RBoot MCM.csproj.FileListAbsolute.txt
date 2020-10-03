@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server_RBoot_MCM.Form1.resources
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server_RBoot_MCM.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server RBoot MCM.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server RBoot MCM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server_RBoot_MCM.Form2.resources
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server_RBoot_MCM.Form3.resources
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server_RBoot_MCM.Form4.resources
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server_RBoot_MCM.Form5.resources
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server_RBoot_MCM.Form6.resources
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\bin\Debug\MCSManager API Linker.exe.config
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\bin\Debug\MCSManager API Linker.exe
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\bin\Debug\MCSManager API Linker.pdb
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\MCSManager API Linker.exe
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\MCSManager API Linker.pdb
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server_RBoot_MCM.Form7.resources
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server_RBoot_MCM.Update.resources
+C:\Users\Administrator\source\repos\Server RBoot MCM\Server RBoot MCM\obj\Debug\Server RBoot MCM.csprojAssemblyReference.cache
